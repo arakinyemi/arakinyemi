@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arakinyemi
 - 👀 I’m interested in (at my level) competitive programming and app designing
-- 🌱 I’m currently learning programming languages such as C++, Python, etc
+- 🌱 I’m currently conversant with programming languages such as React, Node, C++ and Python
 - 💞️ I’m looking to collaborate on making apps
 - 📫 How to reach me ...gmail: arakinyemi@gmail.com 
 
