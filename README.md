@@ -20,7 +20,7 @@ I am a full-stack web developer, AI enthusiast, and entrepreneur passionate abou
 ## Contact
 
 * LinkedIn: [linkedin.com/in/araoluwa-akinyemi](https://linkedin.com/in/araoluwa-akinyemi)
-* Email: **[arakinyemi@example.com](mailto:arakinyemi@example.com)**
+* Email: **[arakinyemi@gmail.com](mailto:arakinyemi@gmail.com)**
 
 
 
